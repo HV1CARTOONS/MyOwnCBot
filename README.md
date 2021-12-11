@@ -1,11 +1,6 @@
-<p align="center"><a href="https://t.me/UC_bot_channel"><img src="https://telegra.ph/file/1e03c485dfc2794b1b8a4.jpg" width="5000"></a></p> 
-<h1 align="center"><b>Saviour_Coder-Video-Compressor-BOT 🇮🇳 </b></h1>
+<p align="center"><a href="https://t.me/HV_CARTOONS_TELUGU_2"><img src="https://telegra.ph/file/9fba75d040c1e94950081.jpg" width="5000"></a></p> 
+<h1 align="center"><b>BHRAO-OWN-Video-Compressor-BOT 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, Smart And Simpe Video Compressor Bot.</h4>
-
-
-## Support 🚑
-<a href="https://t.me/UC_bot_channel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## I'm just a student who just want to learn coding!!
 
@@ -19,7 +14,7 @@
 ###  Demo for the Bot
 * Test our Bot by Clicking the button below 
 
-<a href="http://t.me/SC_VCom_Bot"><img src="https://img.shields.io/badge/Click%F0%9F%91%89-SC%20Video%20Compressor%20Bot-orange"></a>
+<a href="http://t.me/HvCmpredfrbot"><img src="https://img.shields.io/badge/Click%F0%9F%91%89-SC%20Video%20Compressor%20Bot-orange"></a>
 <br>
 
 
@@ -38,10 +33,6 @@ A Powerful and Useful Bot Which Can :-
 
 If you are facing any issue or having problem in deployment then contact us through our group.
 
-
-<a href="https://t.me/ubuntu_coders"><img src="https://img.shields.io/badge/Join%F0%9F%91%89-Ubuntu%20Coders-brightgreen"></a>
-
-<HR/>
 
 ### Mandatory Configs 📒
 ```
