@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/HV_CARTOONS_TELUGU_2"><img src="https://telegra.ph/file/9fba75d040c1e94950081.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/HV_CARTOONS_TELUGU_2"><img src="https://telegra.ph/file/d09225c6144e3a1b33183.jpg" width="5000"></a></p> 
 <h1 align="center"><b>BHRAO-OWN-Video-Compressor-BOT 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, Smart And Simpe Video Compressor Bot.</h4>
 
